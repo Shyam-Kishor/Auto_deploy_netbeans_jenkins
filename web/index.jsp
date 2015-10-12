@@ -13,7 +13,8 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <form action="SampleServletdemo">
+        Miracle Labs
+        <form action="SampleServlet">
                     
                     <input type="submit" value="click">
         </form>
