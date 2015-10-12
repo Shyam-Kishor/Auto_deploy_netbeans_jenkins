@@ -73,7 +73,7 @@
     
     <target name="build-war">
 
-   <war destfile="C:\Users\miracle\.jenkins\jobs\netbeans_git\workspace\dist\sampleJenkins.war" webxml="C:\Users\miracle\Documents\NetBeansProjects\sampleJenkins\build\web\WEB-INF\web.xml">
+   <war destfile="C:\Users\miracle\.jenkins\jobs\Auto_deployment_netbeans\workspace\dist\sampleJenkins.war" webxml="C:\Users\miracle\Documents\NetBeansProjects\sampleJenkins\build\web\WEB-INF\web.xml">
    <!--Give the WebContent folder path-->
       <fileset dir="C:\Users\miracle\Documents\NetBeansProjects\sampleJenkins\build\web">
          <include name="**/*.*"/>
